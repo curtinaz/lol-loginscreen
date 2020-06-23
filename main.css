@@ -30,7 +30,6 @@ body {
     animation-delay: 400ms;
     animation-duration: 800ms;
     opacity: 0;
-
 }
 
 @keyframes show {
